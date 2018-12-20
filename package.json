@@ -1,0 +1,23 @@
+{
+  "name": "react-checkbox",
+  "version": "0.0.1",
+  "description": "React checkbox component",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankod/react-checkbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankod/react-checkbox/issues"
+  },
+  "homepage": "https://github.com/pankod/react-checkbox#readme"
+}
